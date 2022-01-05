@@ -1,3 +1,3 @@
-class Praktikum {
+class Converter {
 
 }
